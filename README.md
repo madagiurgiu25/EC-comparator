@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+> The **officially maintained version** of this project is available at:
+> **https://github.com/AmpliconSuite/EC-comparator**
+
+----
+
 # EC-comparator
 Comparing cycle decompositions across technologies and methods.
 
